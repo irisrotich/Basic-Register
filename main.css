@@ -1,0 +1,38 @@
+#one{
+  background-color:white;
+  padding:6% 0;
+  width: 100%;
+  font-size: 100%;
+  border-radius: 3%;
+ 
+
+  
+}
+#two{
+    background-color: white;
+    padding:6%;
+    font-size: 100%;
+    border-radius: 3%;
+    float:right;
+   
+}
+form{
+   margin: 0 auto;
+   
+   
+}
+form input{
+    margin:2% 0;
+    text-align:center;
+    border-style: none;
+
+}
+#login{
+    
+    text-align: center;
+    border-style:solid;
+    text-decoration:none;
+    padding-top:8px;
+    margin:8% auto 8% auto;
+    
+}
